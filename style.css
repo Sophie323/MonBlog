@@ -23,6 +23,12 @@ h1 {
 
 .titreBillet {
     margin-bottom : 0px;
+ 
+}
+
+.titreReponses {
+    font-size : 10px;
+    
 }
 
 #global {
